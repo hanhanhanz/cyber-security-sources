@@ -9,7 +9,8 @@ Useful links regarding CTF
 - https://zaratec.github.io/ctfpractice/
 
 ### General 
-- https://www.hackthebox.eu/ https://www.securecodewarrior.com/
+- https://www.hackthebox.eu/
+- https://www.securecodewarrior.com/
 - https://www.vulnhub.com/ 
 - https://www.offensive-security.com/labs/ 
 - https://www.root-me.org/
@@ -37,7 +38,8 @@ Useful links regarding CTF
 - https://github.com/incredibleindishell/SSRF_Vulnerable_Lab
 - https://github.com/dogangcr/vulnerable-sso
 - https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp
-- https://github.com/bkimminich/juice-shop https://portswigger.net/web-security/all-labs
+- https://github.com/bkimminich/juice-shop
+- https://portswigger.net/web-security/all-labs
 - https://ctfchallenge.co.uk/
 - https://www.securecodewarrior.com/ (PAID)
 - https://github.com/WebGoat/WebGoat
