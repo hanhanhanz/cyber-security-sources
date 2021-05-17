@@ -21,6 +21,7 @@ Useful links regarding CTF
 - https://net-force.nl/challenges/ 
 - https://pentesterlab.com/pro  (PAID)
 - https://ringzer0ctf.com/
+- https://hackmyvm.eu/
 
 ### PWN/RE
 - https://pwnable.xyz/ 
