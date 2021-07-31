@@ -40,7 +40,6 @@ Useful links regarding CTF
 - https://github.com/dogangcr/vulnerable-sso
 - https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp
 - https://github.com/bkimminich/juice-shop
-- https://portswigger.net/web-security/all-labs
 - https://ctfchallenge.co.uk/
 - https://www.securecodewarrior.com/ (PAID)
 - https://github.com/WebGoat/WebGoat
