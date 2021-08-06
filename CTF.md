@@ -65,6 +65,12 @@ Useful links regarding CTF
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
+
+### BlueTeam Labs
+- https://cyberdefenders.org/search/labs/?q=pcap-anlysis
+- https://opensoc.io/index.html
+- https://blueteamlabs.online/
+- https://blueteam.id/
  
 ### Mobile
 - https://github.com/xtiankisutsa/awesome-mobile-CTF
