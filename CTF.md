@@ -59,7 +59,6 @@ Useful links regarding CTF
 - https://github.com/bridgecrewio/cdkgoat
 - https://github.com/bridgecrewio/cfngoat
 - https://github.com/bridgecrewio/terragoat
-- https://github.com/RhinoSecurityLabs/cloudgoat
 - http://flaws.cloud/
 - http://flaws2.cloud/
 
