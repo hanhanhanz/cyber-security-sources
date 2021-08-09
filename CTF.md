@@ -61,7 +61,10 @@ Useful links regarding CTF
 - https://github.com/bridgecrewio/terragoat
 - http://flaws.cloud/
 - http://flaws2.cloud/
+- https://github.com/Azure/CONVEX
 - https://www.serverless-hack.me/
+- https://github.com/Azure/CONVEX
+- https://github.com/cyberark/escape-the-cloud
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
