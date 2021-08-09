@@ -61,6 +61,7 @@ Useful links regarding CTF
 - https://github.com/bridgecrewio/terragoat
 - http://flaws.cloud/
 - http://flaws2.cloud/
+- https://www.serverless-hack.me/
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
