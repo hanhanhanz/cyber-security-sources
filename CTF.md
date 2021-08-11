@@ -109,6 +109,7 @@ Prefered mantained CTF or the new one
 - https://github.com/wnagzihxa1n/CTF-Mobile-Tutorial
 - https://github.com/JisoonPark/SamsungCTF
 - http://ctf.hpandro.raviramesh.info/
+- https://enovella.github.io/android/reverse/2020/09/03/r2pay-android-crackmes-radare2con.html
 
 ## Cheatsheet
 - https://github.com/JohnHammond/ctf-katana
