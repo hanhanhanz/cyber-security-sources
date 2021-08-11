@@ -2,7 +2,7 @@
 Useful links regarding CTF
 
 ## CTF LAB
-Prefered playable,mantained CTF, or the new one. 
+currently playable CTF platform/chal. Prefered mantained CTF or the new one. 
 
 ### Curated List
 - https://captf.com/practice-ctf/
