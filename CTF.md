@@ -69,6 +69,7 @@ Prefered mantained CTF or the new one
 - https://github.com/avishayil/caponeme
 - https://github.com/accurics/KaiMonkey
 - https://gcpgoat.joshuajebaraj.com/
+- https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
@@ -98,3 +99,8 @@ Prefered mantained CTF or the new one
 - https://github.com/devploit/CTF_OnlineTools
 - https://github.com/SandySekharan/CTF-tool
 - https://github.com/dloss/python-pentest-tools
+
+## Ref
+- https://github.com/xtiankisutsa/awesome-mobile-CTF
+
+
