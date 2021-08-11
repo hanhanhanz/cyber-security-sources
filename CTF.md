@@ -118,6 +118,7 @@ Prefered playable,mantained CTF, or the new one.
 - http://blog.redrocket.club/2019/06/27/google-ctf-quals-2019-flaggy-bird/
 - https://sectt.github.io/writeups/GoogleCTF20/android/README
 - https://fineas.github.io/FeDEX/post/tridroid.html
+- https://aadityapurani.com/2019/03/07/bsidessf-ctf-2019-mobile-track/
 
 ## Cheatsheet
 - https://github.com/JohnHammond/ctf-katana
