@@ -2,12 +2,13 @@
 Useful links regarding CTF
 
 ## CTF LAB
-Prefered mantained CTF or the new one
+Prefered playable,mantained CTF, or the new one. 
 
 ### Curated List
 - https://captf.com/practice-ctf/
 - https://www.amanhardikar.com/mindmaps/Practice.html
 - https://zaratec.github.io/ctfpractice/
+- https://ctftime.org/writeups (but need to find writeup that include the challenge files,description, and still playable)
 
 ### General 
 - https://www.hackthebox.eu/
@@ -110,6 +111,13 @@ Prefered mantained CTF or the new one
 - https://github.com/JisoonPark/SamsungCTF
 - http://ctf.hpandro.raviramesh.info/
 - https://enovella.github.io/android/reverse/2020/09/03/r2pay-android-crackmes-radare2con.html
+- https://github.com/d3rezz/Google-Capture-The-Flag-2016
+- https://github.com/ctfs/write-ups-2016/tree/master/google-ctf-2016/mobile/little-bobby-application-250
+- https://ctftime.org/writeup/6853
+- https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting/google-ctf-2018-shall-we-play-a-game
+- http://blog.redrocket.club/2019/06/27/google-ctf-quals-2019-flaggy-bird/
+- https://sectt.github.io/writeups/GoogleCTF20/android/README
+- https://fineas.github.io/FeDEX/post/tridroid.html
 
 ## Cheatsheet
 - https://github.com/JohnHammond/ctf-katana
