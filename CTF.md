@@ -2,6 +2,7 @@
 Useful links regarding CTF
 
 ## CTF LAB
+Prefered mantained CTF or the new one
 
 ### Curated List
 - https://captf.com/practice-ctf/
