@@ -80,7 +80,7 @@ currently playable CTF platform/chal. Prefered mantained CTF or the new one.
 - https://opensoc.io/index.html
 - https://blueteamlabs.online/
  
-### Mobile
+### androidApp
 - https://github.com/payatu/diva-android
 - https://github.com/oversecured/ovaa
 - https://github.com/OWASP/SecurityShepherd
@@ -107,7 +107,7 @@ currently playable CTF platform/chal. Prefered mantained CTF or the new one.
 - https://github.com/tlamb96/kgb_messenger
 - http://ctf.hpandro.raviramesh.info/
 
-### Mobile chal from CTF competition
+### AndroidApp chal from CTF competition
 - https://github.com/hanhanhanz/cyber-security-sources/tree/main/Hacktivity2020-mobile-chal
 - https://github.com/hanhanhanz/cyber-security-sources/tree/main/nahamcon2021-mobile-chal
 - https://github.com/wnagzihxa1n/CTF-Mobile-Tutorial
