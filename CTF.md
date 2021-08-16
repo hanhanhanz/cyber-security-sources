@@ -2,7 +2,7 @@
 Useful links regarding CTF
 
 ## CTF LAB
-currently playable CTF platform/chal. Prefered mantained CTF or the new one. 
+currently playable CTF platform/chal. Prefered maintain CTF or the new one. 
 
 ### Curated List
 - https://captf.com/practice-ctf/
@@ -11,6 +11,7 @@ currently playable CTF platform/chal. Prefered mantained CTF or the new one.
 - https://ctftime.org/writeups (but need to find writeup that include the challenge files,description, and still playable)
 
 ### General 
+containing multiple types of CTF
 - https://www.hackthebox.eu/
 - https://www.securecodewarrior.com/
 - https://www.vulnhub.com/ 
@@ -40,7 +41,6 @@ currently playable CTF platform/chal. Prefered mantained CTF or the new one.
 - https://github.com/vegabird/xvna
 - https://github.com/incredibleindishell/SSRF_Vulnerable_Lab
 - https://github.com/dogangcr/vulnerable-sso
-- https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp
 - https://github.com/bkimminich/juice-shop
 - https://ctfchallenge.co.uk/
 - https://www.securecodewarrior.com/ (PAID)
@@ -53,6 +53,15 @@ currently playable CTF platform/chal. Prefered mantained CTF or the new one.
 - https://github.com/incredibleindishell/SSRF_Vulnerable_Lab
 - https://github.com/payatu/Tiredful-API
 - https://websploit.org/ 
+
+### Crypto
+- https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp
+- https://cryptohack.org/
+- https://cryptopals.com/
+- https://www.catchthecrypto.com/
+
+### Blockchain
+- https://github.com/openblocksec/blocksec-ctfs
 
 ### Cloud
 - https://github.com/RhinoSecurityLabs/cloudgoat
@@ -80,7 +89,7 @@ currently playable CTF platform/chal. Prefered mantained CTF or the new one.
 - https://opensoc.io/index.html
 - https://blueteamlabs.online/
  
-### androidApp
+### AndroidApp
 - https://github.com/payatu/diva-android
 - https://github.com/oversecured/ovaa
 - https://github.com/OWASP/SecurityShepherd
