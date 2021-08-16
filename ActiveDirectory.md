@@ -36,3 +36,4 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
 - https://identityandsecuritydotcom.files.wordpress.com/2020/04/adsa-1-1.pdf
 - https://thevivi.net/wp-content/uploads/2019/08/theVIVI-AD-Security-Workshop_AfricaHackon2019.pdf
+- https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
