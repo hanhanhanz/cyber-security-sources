@@ -152,6 +152,6 @@ containing multiple types of CTF
 
 ## Ref
 - https://github.com/xtiankisutsa/awesome-mobile-CTF
-- https://phonexicum.github.io/challenges.html#smartphones
+- https://phonexicum.github.io/challenges.html
 
 
