@@ -35,6 +35,9 @@ containing multiple types of CTF
 - https://w3challs.com/challenges/list/reversing 
 - https://microcorruption.com/login 
 - https://pwn.college/
+- http://www.fuzzysecurity.com/tutorials.html
+- https://github.com/shellphish/how2heap
+- https://github.com/RPISEC/MBE
 
 ### Web 
 - https://portswigger.net/web-security/all-labs
@@ -149,5 +152,6 @@ containing multiple types of CTF
 
 ## Ref
 - https://github.com/xtiankisutsa/awesome-mobile-CTF
+- https://phonexicum.github.io/challenges.html#smartphones
 
 
