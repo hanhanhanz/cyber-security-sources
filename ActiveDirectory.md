@@ -37,3 +37,6 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://identityandsecuritydotcom.files.wordpress.com/2020/04/adsa-1-1.pdf
 - https://thevivi.net/wp-content/uploads/2019/08/theVIVI-AD-Security-Workshop_AfricaHackon2019.pdf
 - https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
+- https://github.com/hexachordanu/Red-Team-Essentials
+- https://github.com/hexachordanu/Red-Team-Essentials/blob/master/attcking-ad-for-fun-and-profit.pdf
+- https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
