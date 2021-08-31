@@ -40,3 +40,15 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://github.com/hexachordanu/Red-Team-Essentials
 - https://github.com/hexachordanu/Red-Team-Essentials/blob/master/attcking-ad-for-fun-and-profit.pdf
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+- https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md
+
+## Paid Training 
+it's syllabus chapter/subchapter will be useful keywords for learning if you google it (if you cant afford the training)
+- https://www.offensive-security.com/pen300-osep/
+- https://www.sans.org/cyber-security-courses/red-team-exercises-adversary-emulation/
+- https://www.zeropointsecurity.co.uk/red-team-ops/overview
+- https://institute.sektor7.net/
+- https://wildwesthackinfest.com/antisyphon//
+- https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/
+- https://www.pentesteracademy.com/redteamlab
+- https://specterops.io/how-we-help/training-offerings/adversary-tactics-red-team-operations
