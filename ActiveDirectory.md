@@ -6,6 +6,7 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 
 - https://zer1t0.gitlab.io/posts/attacking_ad/
 - https://adsecurity.org/?page_id=41
+- https://docs.microsoft.com/en-us/archive/blogs/ashwinexchange/understanding-active-directory-for-beginners-part-1
 
 ## TTP
 
