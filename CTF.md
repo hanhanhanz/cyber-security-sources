@@ -84,9 +84,16 @@ containing multiple types of CTF
 - https://github.com/accurics/KaiMonkey
 - https://gcpgoat.joshuajebaraj.com/
 - https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
+- https://github.com/juanjoSanz/aws-pentesting-lab
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
+
+### Redteam Labs
+labs focusing on redteaming exercise, often contains multiple machines in a single challenge
+- https://github.com/Marshall-Hallenbeck/red_team_attack_lab
+- https://github.com/s0wr0b1ndef/pentest-lab
+- https://github.com/R3dy/capsulecorp-pentest
 
 ### BlueTeam Labs
 - https://cyberdefenders.org/search/labs/?q=pcap-anlysis
@@ -155,5 +162,6 @@ containing multiple types of CTF
 ## Ref
 - https://github.com/xtiankisutsa/awesome-mobile-CTF
 - https://phonexicum.github.io/challenges.html
+- https://www.linkedin.com/posts/zer0verflow_hacking-penetrationtesting-penetrationtester-activity-6848006673483747328-b11Z/
 
 
