@@ -56,7 +56,8 @@ containing multiple types of CTF
 - https://github.com/incredibleindishell/SSRF_Vulnerable_Lab
 - https://github.com/payatu/Tiredful-API
 - https://websploit.org/
-- https://github.com/snyk/exploit-workshop 
+- https://github.com/snyk/exploit-workshop
+- https://github.com/ShiftLeftSecurity/tarpit-java
 
 ### Crypto
 - https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp
