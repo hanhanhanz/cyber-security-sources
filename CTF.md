@@ -25,6 +25,8 @@ containing multiple types of CTF
 - https://pentesterlab.com/pro  (PAID)
 - https://ringzer0ctf.com/
 - https://hackmyvm.eu/
+- https://hbh.sh/home
+- https://hack.me/s/
 
 ### PWN/RE
 - https://pwnable.xyz/ 
