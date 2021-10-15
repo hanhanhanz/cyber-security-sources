@@ -42,6 +42,7 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://github.com/hexachordanu/Red-Team-Essentials/blob/master/attcking-ad-for-fun-and-profit.pdf
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 - https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md
+- https://attack.stealthbits.com/
 
 ## Paid Training 
 it's syllabus chapter/subchapter will be useful keywords for learning if you google it (if you cant afford the training)
