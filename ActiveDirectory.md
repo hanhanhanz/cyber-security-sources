@@ -54,3 +54,4 @@ it's syllabus chapter/subchapter will be useful keywords for learning if you goo
 - https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/
 - https://www.pentesteracademy.com/redteamlab
 - https://specterops.io/how-we-help/training-offerings/adversary-tactics-red-team-operations
+- https://fortynorthsecurity.com/public-training
