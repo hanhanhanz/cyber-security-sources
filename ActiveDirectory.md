@@ -24,7 +24,6 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://github.com/initstring/pentest-methodology/blob/master/internal-ad.md
 - https://github.com/SofianeHamlaoui/Pentest-Notes/blob/master/Security_cheatsheets/windows/active-directory.md
 - https://pentestbook.six2dez.com/post-exploitation/windows/ad
-- https://gbhackers.com/active-directory-penetration-testing-checklist/
 - https://owasp.org/www-pdf-archive/OWASP_FFM_41_OffensiveActiveDirectory_101_MichaelRitter.pdf
 - https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/
 - https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/active-directory
@@ -43,6 +42,13 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 - https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md
 - https://attack.stealthbits.com/
+- https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md
+
+## Toolkit
+- https://github.com/infosecn1nja/Red-Teaming-Toolkit
+
+## Infrastructure
+- https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
 
 ## Paid Training 
 it's syllabus chapter/subchapter will be useful keywords for learning if you google it (if you cant afford the training)
