@@ -44,6 +44,7 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://attack.stealthbits.com/
 - https://github.com/chryzsh/DarthSidious/
 - https://github.com/ihebski/A-Red-Teamer-diaries
+- https://github.com/wavestone-cdt/AD-security-workshop
 
 ## Specific Intresting TTP
 - https://theevilbit.github.io/posts/divide_and_conquer/
