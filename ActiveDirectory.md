@@ -8,7 +8,7 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://adsecurity.org/?page_id=41
 - https://docs.microsoft.com/en-us/archive/blogs/ashwinexchange/understanding-active-directory-for-beginners-part-1
 
-## TTP
+## Plethora TTP
 
 - https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html#-active-directory
 - https://jarnobaselier.nl/hacking-active-directory-cheatsheet/
@@ -42,7 +42,11 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 - https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md
 - https://attack.stealthbits.com/
-- https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md
+- https://github.com/chryzsh/DarthSidious/
+- https://github.com/ihebski/A-Red-Teamer-diaries
+
+## Specific Intresting TTP
+- https://theevilbit.github.io/posts/divide_and_conquer/
 
 ## Toolkit
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
