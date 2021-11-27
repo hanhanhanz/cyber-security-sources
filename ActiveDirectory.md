@@ -64,5 +64,6 @@ it's syllabus chapter/subchapter will be useful keywords for learning if you goo
 - https://wildwesthackinfest.com/antisyphon//
 - https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/
 - https://www.pentesteracademy.com/redteamlab
+- https://www.pentesteracademy.com/activedirectorylab
 - https://specterops.io/how-we-help/training-offerings/adversary-tactics-red-team-operations
 - https://fortynorthsecurity.com/public-training
