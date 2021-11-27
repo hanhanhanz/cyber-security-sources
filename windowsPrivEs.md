@@ -1,6 +1,10 @@
 # Windows PrivEs
 
 Links cheatsheet about windows priviledge escalation
+## WMI Detail
+- https://www.varonis.com/blog/wmi-windows-management-instrumentation/
+
+## Plethora TTP
 
 - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
 - https://www.fuzzysecurity.com/tutorials/16.html
