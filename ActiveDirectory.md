@@ -46,6 +46,13 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://github.com/ihebski/A-Red-Teamer-diaries
 - https://github.com/wavestone-cdt/AD-security-workshop
 
+## Adversaries Emulation in AD
+- https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix
+- https://github.com/pe3zx/my-infosec-awesome#adversary-simulation--emulation
+- https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md
+- https://github.com/fozavci/ta505plus
+
+
 ## Specific Intresting TTP
 - https://theevilbit.github.io/posts/divide_and_conquer/
 
