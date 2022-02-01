@@ -45,6 +45,7 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://github.com/chryzsh/DarthSidious/
 - https://github.com/ihebski/A-Red-Teamer-diaries
 - https://github.com/wavestone-cdt/AD-security-workshop
+- https://kbase.ayoma.me/windows/active-directory/
 
 ## Adversaries Emulation in AD
 - https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix
