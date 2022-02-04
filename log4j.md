@@ -2,6 +2,10 @@
 
 log4j exploit/detection/mitigation ref
 
+## payload development
+- https://gist.github.com/nathanqthai/197b6084a05690fdebf96ed34ae84305
+- https://github.com/jas502n/Log4j2-CVE-2021-44228 (contain LOTS of variables)
+- https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words (for waf bypass. contain curated list)
 ## "poc"
 - https://github.com/Kirill89/log4shell-vulnerable-server-exploit
 - https://github.com/kozmer/log4j-shell-poc
