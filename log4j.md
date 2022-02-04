@@ -9,6 +9,8 @@ log4j exploit/detection/mitigation ref
 ## "poc"
 - https://github.com/Kirill89/log4shell-vulnerable-server-exploit
 - https://github.com/kozmer/log4j-shell-poc
+## vuln server
+- https://github.com/Kirill89/log4shell-vulnerable-server
 ## mitigation
 - https://github.com/NCSC-NL/log4shell/blob/main/detection_mitigation/README.md
 - https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832
