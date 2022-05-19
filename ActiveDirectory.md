@@ -11,6 +11,7 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 ## Plethora TTP
 
 - https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html#-active-directory
+- https://www.thehacker.recipes/
 - https://jarnobaselier.nl/hacking-active-directory-cheatsheet/
 - https://www.hackingdream.net/2021/04/active-directory-penetration-testing-cheatsheet.html
 - https://www.hackingdream.net/2021/05/ad-pentest-cheatsheet-lateral-movement-persistence.html
