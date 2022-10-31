@@ -80,7 +80,8 @@ containing multiple types of CTF
 - https://github.com/bridgecrewio/terragoat
 - http://flaws.cloud/
 - http://flaws2.cloud/
-- https://github.com/Azure/CONVEX
+- https://github.com/ine-labs/AzureGoat
+- https://github.com/ine-labs/AWSGoat
 - https://www.serverless-hack.me/
 - https://github.com/Azure/CONVEX
 - https://github.com/cyberark/escape-the-cloud
