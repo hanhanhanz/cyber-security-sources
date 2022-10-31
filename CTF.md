@@ -95,7 +95,7 @@ containing multiple types of CTF
 - https://github.com/nccgroup/sadcloud
 - https://pentesting.cloud/
 - https://thunder-ctf.cloud/
-- https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky (PAID)
+- https://twitter.com/hackthebox_eu/status/1549108777298927616 (Blacksky: PAID)
 - https://www.pentesteracademy.com/topics (search: cloud) (PAID)
 
 ### DevOps & Container
