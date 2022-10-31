@@ -93,6 +93,7 @@ containing multiple types of CTF
 - https://github.com/juanjoSanz/aws-pentesting-lab
 - https://github.com/HXSecurity/TerraformGoat
 - https://github.com/nccgroup/sadcloud
+- https://pentesting.cloud/
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
