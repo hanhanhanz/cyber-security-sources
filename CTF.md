@@ -94,6 +94,7 @@ containing multiple types of CTF
 - https://github.com/HXSecurity/TerraformGoat
 - https://github.com/nccgroup/sadcloud
 - https://pentesting.cloud/
+- https://thunder-ctf.cloud/
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
