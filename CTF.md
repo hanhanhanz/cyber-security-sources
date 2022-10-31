@@ -82,6 +82,7 @@ containing multiple types of CTF
 - http://flaws2.cloud/
 - https://github.com/ine-labs/AzureGoat
 - https://github.com/ine-labs/AWSGoat
+- https://github.com/SecuraBV/brokenbydesign-azure
 - https://www.serverless-hack.me/
 - https://github.com/Azure/CONVEX
 - https://github.com/cyberark/escape-the-cloud
