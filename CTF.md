@@ -91,6 +91,8 @@ containing multiple types of CTF
 - https://gcpgoat.joshuajebaraj.com/
 - https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
 - https://github.com/juanjoSanz/aws-pentesting-lab
+- https://github.com/HXSecurity/TerraformGoat
+- https://github.com/nccgroup/sadcloud
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
