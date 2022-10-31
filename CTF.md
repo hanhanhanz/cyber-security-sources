@@ -96,6 +96,7 @@ containing multiple types of CTF
 - https://pentesting.cloud/
 - https://thunder-ctf.cloud/
 - https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky (PAID)
+- https://www.pentesteracademy.com/topics (search: cloud) (PAID)
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
