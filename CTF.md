@@ -97,6 +97,7 @@ containing multiple types of CTF
 - https://thunder-ctf.cloud/
 - https://twitter.com/hackthebox_eu/status/1549108777298927616 (Blacksky: PAID)
 - https://www.pentesteracademy.com/topics (search: cloud) (PAID)
+- https://github.com/BishopFox/iam-vulnerable
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
