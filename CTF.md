@@ -141,6 +141,7 @@ labs focusing on redteaming exercise, often contains multiple machines in a sing
 - http://ctf.hpandro.raviramesh.info/
 - https://mobisec.reyammer.io/challs
 - https://github.com/brunokaique/SAST-Android
+- https://github.com/user1342/Broken-Droid-Factory
 
 ### AndroidApp chal from CTF competition
 - https://github.com/hanhanhanz/cyber-security-sources/tree/main/Hacktivity2020-mobile-chal
