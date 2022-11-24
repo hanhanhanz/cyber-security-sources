@@ -5,6 +5,8 @@ CSP TTP reference
 ## TTP
 
 ### GCP
+- https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/ (gud cheatsheet)
+- https://0xd4y.com/2022/10/24/GCP-Penetration-Testing-Notes-2/ (gud cheatsheet)
 - https://hackingthe.cloud/gcp/exploitation/gcp-priv-esc/
 - https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/
 - https://rhinosecuritylabs.com/blog/?category=gcp
