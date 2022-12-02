@@ -78,3 +78,4 @@ it's syllabus chapter/subchapter will be useful keywords for learning if you goo
 - https://www.pentesteracademy.com/activedirectorylab
 - https://specterops.io/how-we-help/training-offerings/adversary-tactics-red-team-operations
 - https://fortynorthsecurity.com/public-training
+- https://certcube.com/active-directory-pentesting-and-security-training/
