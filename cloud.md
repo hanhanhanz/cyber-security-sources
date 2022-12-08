@@ -1,6 +1,6 @@
 # Offensive Cloud
 
-CSP TTP reference
+CSP TTP reference or CTF writeup
 
 ## TTP
 
@@ -25,3 +25,8 @@ CSP TTP reference
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
 - https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest
 - https://github.com/kh4sh3i/cloud-penetration-testing
+
+## Writeup
+- https://tvd.dev/defcon28-cloud-village-ctf-writeup.html
+- https://myugan.medium.com/def-con-29-cloud-village-ctf-writeups-4ebd2e2cd9c
+- https://jadencodes.io/cloud-village-2022
