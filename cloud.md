@@ -30,3 +30,4 @@ CSP TTP reference or CTF writeup
 - https://tvd.dev/defcon28-cloud-village-ctf-writeup.html
 - https://myugan.medium.com/def-con-29-cloud-village-ctf-writeups-4ebd2e2cd9c
 - https://jadencodes.io/cloud-village-2022
+- https://dreadlocked.github.io/2019/04/20/midnisghtsunctf-cloudb/
