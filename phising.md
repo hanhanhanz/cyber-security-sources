@@ -24,6 +24,11 @@ All about phishing
 - https://github.com/decidedlygray/mfa_slipstream_poc
 - https://github.com/afernandezb92/2FAGmailPhising
 - https://github.com/SimplySecurity/SimplyTemplate
+- https://github.com/mrd0x/BITB
+- https://github.com/kgretzky/evilginx2
+- https://github.com/jaykali/maskphish
+- https://github.com/JoelGMSec/EvilnoVNC
+- https://github.com/drk1wi/Modlishka
 
 ## Tips&Tricks
 - https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#phishing-setup
@@ -31,3 +36,4 @@ All about phishing
 
 ## curatedLists
 - https://github.com/PhishyAlice/awesome-phishing/blob/master/README.md
+- https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Phishing.md
