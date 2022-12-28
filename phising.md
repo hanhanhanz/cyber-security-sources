@@ -28,3 +28,6 @@ All about phishing
 ## Tips&Tricks
 - https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#phishing-setup
 - https://gist.github.com/Ridter/c77b1f3cca2dfcee62f5d2ee2236444e
+
+## curatedLists
+- https://github.com/PhishyAlice/awesome-phishing/blob/master/README.md
