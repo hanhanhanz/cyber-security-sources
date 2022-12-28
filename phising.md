@@ -30,6 +30,8 @@ All about phishing
 - https://github.com/JoelGMSec/EvilnoVNC
 - https://github.com/drk1wi/Modlishka
 - https://github.com/netevert/dnsmorph
+- https://github.com/mdsecactivebreach/o365-attack-toolkit
+- https://github.com/AlteredSecurity/365-Stealer
 
 ## Tips&Tricks
 - https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#phishing-setup
