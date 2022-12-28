@@ -1,0 +1,29 @@
+# Phishing
+
+All about phishing
+
+## Templates
+- https://github.com/sophoslabs/covid-iocs
+- https://github.com/UNGlobalPlatform/okta-templates
+- https://github.com/rustrose/OPENORCHID/tree/master/GoPhish_Templates
+- https://github.com/werdox/phishfactory/tree/main/templates
+- https://github.com/htr-tech/zphisher/tree/master/.sites
+- https://github.com/ZeroPointSecurity/PhishingTemplates/tree/master/Office365
+- https://github.com/isuruwa/Phoenix/tree/main/Sites
+- https://github.com/iinc0gnit0/BlackPhish/tree/master/Websites
+- https://github.com/BiZken/PhishMailer
+- https://github.com/ratcode404/gophish-templates
+- https://github.com/FreeZeroDays/GoPhish-Templates
+
+## Tools
+- https://github.com/dmdhrumilmistry/GooglePhish
+- https://github.com/BiZken/PhishMailer
+- https://github.com/GemGeorge/SniperPhish
+- https://github.com/fkasler/phishmonger
+- https://github.com/decidedlygray/mfa_slipstream_poc
+- https://github.com/afernandezb92/2FAGmailPhising
+- https://github.com/SimplySecurity/SimplyTemplate
+
+## Tips&Tricks
+- https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#phishing-setup
+- https://gist.github.com/Ridter/c77b1f3cca2dfcee62f5d2ee2236444e
