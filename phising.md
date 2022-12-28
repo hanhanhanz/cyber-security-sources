@@ -37,3 +37,6 @@ All about phishing
 ## curatedLists
 - https://github.com/PhishyAlice/awesome-phishing/blob/master/README.md
 - https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Phishing.md
+
+## hosting
+- https://lots-project.com/
