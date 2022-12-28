@@ -29,6 +29,7 @@ All about phishing
 - https://github.com/jaykali/maskphish
 - https://github.com/JoelGMSec/EvilnoVNC
 - https://github.com/drk1wi/Modlishka
+- https://github.com/netevert/dnsmorph
 
 ## Tips&Tricks
 - https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#phishing-setup
