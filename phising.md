@@ -37,6 +37,8 @@ All about phishing
 - https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#phishing-setup
 - https://gist.github.com/Ridter/c77b1f3cca2dfcee62f5d2ee2236444e
 - https://github.com/bhdresh/SocialEngineeringPayloads
+- https://doubleoctopus.com/blog/threats-and-attacks/bypassing-2fa/
+- https://awesomeopensource.com/projects/phishing/two-factor-authentication
 
 ## curatedLists
 - https://github.com/PhishyAlice/awesome-phishing/blob/master/README.md
