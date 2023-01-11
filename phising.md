@@ -32,6 +32,7 @@ All about phishing
 - https://github.com/netevert/dnsmorph
 - https://github.com/mdsecactivebreach/o365-attack-toolkit
 - https://github.com/AlteredSecurity/365-Stealer
+- https://github.com/jackmichalak/phishim
 
 ## Tips&Tricks
 - https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#phishing-setup
