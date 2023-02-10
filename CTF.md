@@ -27,6 +27,7 @@ containing multiple types of CTF
 - https://hackmyvm.eu/
 - https://hbh.sh/home
 - https://hack.me/s/
+- https://deusx64.ai/
 
 ### PWN/RE
 - https://pwnable.xyz/ 
