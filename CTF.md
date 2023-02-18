@@ -141,7 +141,7 @@ labs focusing on redteaming exercise, often contains multiple machines in a sing
 - https://github.com/kiyadesu/android-reversing-challenges
 - https://github.com/tlamb96/kgb_messenger
 - http://ctf.hpandro.raviramesh.info/
-- https://mobisec.reyammer.io/challs
+- https://mobisec.reyammer.io/challs | https://challs.reyammer.io/
 - https://github.com/brunokaique/SAST-Android
 - https://github.com/user1342/Broken-Droid-Factory
 - https://github.com/satishpatnayak/AndroGoat
