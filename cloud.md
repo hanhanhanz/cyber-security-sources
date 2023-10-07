@@ -11,6 +11,10 @@ CSP TTP reference or CTF writeup
 - https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/
 - https://rhinosecuritylabs.com/blog/?category=gcp
 - https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security
+- https://pentestbook.six2dez.com/enumeration/cloud/gcp
+- https://csbygb.gitbook.io/pentips/cloud-pentest/gcp
+- https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/
+- https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation/tree/master/ExploitScripts
 - https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-tech-notes/-/blob/master/gcp-post-exploitation-feb-2020/README.md
 - https://github.com/notsosecure/cloud-sec-wiki/blob/gh-pages/pages/mydoc/google_cloud.md
 - https://github.com/Littlehack3r/awesome-gcp-pentesting
@@ -20,6 +24,7 @@ CSP TTP reference or CTF writeup
 - https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/GCP.md
 - https://github.com/GoogleCloudPlatform/security-analytics
 - https://github.com/NextSecurity/Awesome-Cloud-Security#gcp
+- https://github.com/CyberSecurityUP/GCP-Pentest-Checklist
 
 ### azure/aws
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
