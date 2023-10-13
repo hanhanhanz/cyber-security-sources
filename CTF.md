@@ -103,6 +103,8 @@ containing multiple types of CTF
 
 ### DevOps & Container
 - https://github.com/madhuakula/kubernetes-goat
+- https://github.com/step-security/github-actions-goat/tree/main
+- https://github.com/cider-security-research/cicd-goat
 
 ### Redteam Labs
 labs focusing on redteaming exercise, often contains multiple machines in a single challenge
