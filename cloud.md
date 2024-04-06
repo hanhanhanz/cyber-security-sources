@@ -4,6 +4,13 @@ CSP TTP reference or CTF writeup
 
 ## TTP
 
+### multiCloud tools
+- https://github.com/RedTeamOperations/RedCloud-OS
+- https://github.com/DataDog/stratus-red-team
+
+### multiCloud source
+- https://www.blackhillsinfosec.com/wp-content/uploads/2020/05/Breaching-the-Cloud-Perimeter-Slides.pdf
+
 ### GCP
 - https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/ (gud cheatsheet)
 - https://0xd4y.com/2022/10/24/GCP-Penetration-Testing-Notes-2/ (gud cheatsheet)
@@ -25,6 +32,12 @@ CSP TTP reference or CTF writeup
 - https://github.com/GoogleCloudPlatform/security-analytics
 - https://github.com/NextSecurity/Awesome-Cloud-Security#gcp
 - https://github.com/CyberSecurityUP/GCP-Pentest-Checklist
+- https://github.com/lutzenfried/Delegate
+- https://github.com/axon-git/DeleFriend
+- https://github.com/SamuelGaudemer/GCP-Pentest
+- https://github.com/lutzenfried/OffensiveCloud/blob/main/GCP/GCP%20Command%20Line%20CheatSheet.md
+- https://github.com/lutzenfried/OffensiveCloud/blob/main/GCP/GCP%20Pentest%20Cloud%20-%20Resources.md
+- https://github.com/lutzenfried/OffensiveCloud/blob/main/GCP/Workspace%20-%20GSuite%20-%20Pentest%20-%20Resources.md
 
 ### azure/aws
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
