@@ -38,6 +38,7 @@ CSP TTP reference or CTF writeup
 - https://github.com/lutzenfried/OffensiveCloud/blob/main/GCP/GCP%20Command%20Line%20CheatSheet.md
 - https://github.com/lutzenfried/OffensiveCloud/blob/main/GCP/GCP%20Pentest%20Cloud%20-%20Resources.md
 - https://github.com/lutzenfried/OffensiveCloud/blob/main/GCP/Workspace%20-%20GSuite%20-%20Pentest%20-%20Resources.md
+- https://github.com/0xd4y/Notes/tree/main/GCP
 
 ### azure/aws
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
