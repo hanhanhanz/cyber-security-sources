@@ -64,9 +64,6 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 ## Toolkit
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
-## Infrastructure
-- https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
-
 ## Paid Training 
 it's syllabus chapter/subchapter will be useful keywords for learning if you google it (if you cant afford the training)
 - https://www.offensive-security.com/pen300-osep/
