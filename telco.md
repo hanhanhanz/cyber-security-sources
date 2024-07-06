@@ -18,6 +18,7 @@
 - https://www.youtube.com/watch?v=j1dO_UCx9O4 [Taking Over Telecom Networks ]
 - https://www.youtube.com/watch?v=wouuxbS5YUg [LTE And IMSI Catchers Then And Now]
 - https://www.youtube.com/watch?v=s8Q3o74L7VU [LTE Cell Tracking using SDR]
+- https://www.youtube.com/watch?v=b_B7r3byUPo&list=PLTpC_5SFOXABXxDWrEiAX3iQv8JFHQsMj [offensive wireless playlist]
 
 - https://www.youtube.com/watch?v=zIU_wVm6lrE&t=15s [4G Who is Paying Your Cellular Phone Bill Video]
 - https://www.youtube.com/watch?v=nZI2W94vYLA [Ghost Telephonist Impersonates You Through LTE CSF]
