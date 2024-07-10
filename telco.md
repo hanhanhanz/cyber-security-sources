@@ -25,7 +25,7 @@
 - https://www.youtube.com/watch?v=Nn8Pwz9MxSA [Forcing a Targeted LTE phone into Unsafe Netw]
 - https://www.youtube.com/watch?v=ti8_NozsT_I [LTE Recon and Tracking with RTLSDR]
 - https://www.youtube.com/watch?v=OORUkEsannA&t=5s [All the 4G Modules Could Be Hacked]
-
+- https://ieeexplore.ieee.org/document/8835335 [aLTEr vulnerability]
 ## basic
 - https://www.youtube.com/watch?v=w4nME5Q3zQ4&t=30s [LTE Call Flow - Wireshark (Pcap) analysis of LTE UE Attach]
 - https://www.youtube.com/watch?v=4JXhKhxY3Oo&list=PLgQvzsPaZX_ZAaohgRhpb_dv7RL1fNZB5 [LTE Security multipart]
