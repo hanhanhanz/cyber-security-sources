@@ -24,6 +24,7 @@
 - https://www.youtube.com/watch?v=D_nbfcdRzeQ [Hacking 5G Is No Rocket Science]
 - https://youtu.be/j1dO_UCx9O4?si=qR5ATClEKyyucIwU [Taking Over Telecom Networks]
 - https://youtu.be/pdEjC34vx6Y?si=_M2vLjDCoRuSgzBX [Call Me Maybe: Eavesdropping Encrypted LTE Calls With ReVoLTE]
+- https://www.youtube.com/watch?v=vn2LmXvn9Os [OpenRAN – 5G hacking just got a lot more interesting]
 
 - https://www.youtube.com/watch?v=zIU_wVm6lrE&t=15s [4G Who is Paying Your Cellular Phone Bill Video]
 - https://www.youtube.com/watch?v=nZI2W94vYLA [Ghost Telephonist Impersonates You Through LTE CSF]
