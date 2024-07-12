@@ -19,6 +19,11 @@
 - https://www.youtube.com/watch?v=wouuxbS5YUg [LTE And IMSI Catchers Then And Now]
 - https://www.youtube.com/watch?v=s8Q3o74L7VU [LTE Cell Tracking using SDR]
 - https://www.youtube.com/watch?v=b_B7r3byUPo&list=PLTpC_5SFOXABXxDWrEiAX3iQv8JFHQsMj [offensive wireless playlist]
+- https://youtu.be/w2FZhCWSnzI?si=i8t2fbFzjzvxFE40 [how to hijack volte]
+- https://youtu.be/I6srW7uFIyg?si=hYOIhbC8kfB_Z9tJ [Exploiting vulnerabilities in 5G access network protocols]
+- https://www.youtube.com/watch?v=D_nbfcdRzeQ [Hacking 5G Is No Rocket Science]
+- https://youtu.be/j1dO_UCx9O4?si=qR5ATClEKyyucIwU [Taking Over Telecom Networks]
+- https://youtu.be/pdEjC34vx6Y?si=_M2vLjDCoRuSgzBX [Call Me Maybe: Eavesdropping Encrypted LTE Calls With ReVoLTE]
 
 - https://www.youtube.com/watch?v=zIU_wVm6lrE&t=15s [4G Who is Paying Your Cellular Phone Bill Video]
 - https://www.youtube.com/watch?v=nZI2W94vYLA [Ghost Telephonist Impersonates You Through LTE CSF]
