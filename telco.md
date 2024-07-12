@@ -26,10 +26,15 @@
 - https://www.youtube.com/watch?v=ti8_NozsT_I [LTE Recon and Tracking with RTLSDR]
 - https://www.youtube.com/watch?v=OORUkEsannA&t=5s [All the 4G Modules Could Be Hacked]
 - https://ieeexplore.ieee.org/document/8835335 [aLTEr vulnerability]
+- https://radix-security.com/research/revolte-attack/ [reVOLTE]
+- https://adam-toscher.medium.com/how-to-create-an-evil-lte-twin-34b0a9ce193b [create eviltwin lte]
+- https://github.com/vaggelis-sudo/5G-UE-SecurityTesting [5g UE security testing]
+- https://syed-rafiul-hussain.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf [paging protocol attack on 4g/5g (ToRPEDO)] 
 ## basic
 - https://www.youtube.com/watch?v=w4nME5Q3zQ4&t=30s [LTE Call Flow - Wireshark (Pcap) analysis of LTE UE Attach]
 - https://www.youtube.com/watch?v=4JXhKhxY3Oo&list=PLgQvzsPaZX_ZAaohgRhpb_dv7RL1fNZB5 [LTE Security multipart]
 - https://github.com/cn0xroot/RFSec-ToolKit
+- https://x.com/3g4gUK/status/1057929137501995008?t=pqXCRc1a2WJiB6QBasdX7Q&s=19 [5g below security evo]
 ## all gen
 - https://www.youtube.com/watch?v=t4SHqKyDmH8 [War Stories - Nuthin But A G Thang Evolution of Cellular Networks]
 
@@ -38,6 +43,12 @@
 - https://github.com/SigPloiter/SigPloit
 - https://github.com/SysSec-KAIST/sigover_injector
 - https://github.com/pentestpartners/defcon27-4grouters
+
+## training
+- https://advancedsecurity.training/training/live-mobile-hacking/?event=live-mobile-device-hacking-winter-2024
+- https://www.p1sec.com/trainings
+- https://penthertz.com/trainings/5g_devices_and_networks_hacking/
+- https://hardwear.io/netherlands-2024/training/telco-networks-for-pentesters.php
 
 ## curated lists
 - https://github.com/W00t3k/Awesome-Cellular-Hacking
