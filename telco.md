@@ -34,7 +34,7 @@
 - https://www.youtube.com/watch?v=w4nME5Q3zQ4&t=30s [LTE Call Flow - Wireshark (Pcap) analysis of LTE UE Attach]
 - https://www.youtube.com/watch?v=4JXhKhxY3Oo&list=PLgQvzsPaZX_ZAaohgRhpb_dv7RL1fNZB5 [LTE Security multipart]
 - https://github.com/cn0xroot/RFSec-ToolKit
-- https://x.com/3g4gUK/status/1057929137501995008?t=pqXCRc1a2WJiB6QBasdX7Q&s=19 [5g below security evo]
+- https://x.com/3g4gUK/status/1057929137501995008?t=pqXCRc1a2WJiB6QBasdX7Q&s=19 [5g threatmodeling]
 ## all gen
 - https://www.youtube.com/watch?v=t4SHqKyDmH8 [War Stories - Nuthin But A G Thang Evolution of Cellular Networks]
 
