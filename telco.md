@@ -43,6 +43,7 @@
 - https://github.com/SigPloiter/SigPloit
 - https://github.com/SysSec-KAIST/sigover_injector
 - https://github.com/pentestpartners/defcon27-4grouters
+- https://github.com/Montimage/5Greplay
 
 ## training
 - https://advancedsecurity.training/training/live-mobile-hacking/?event=live-mobile-device-hacking-winter-2024
@@ -57,3 +58,4 @@
 - https://github.com/onehouwong/Cellular-Security-Papers
 - https://github.com/mgp25/RF-List
 - https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/README.md
+- https://github.com/ravens/awesome-telco/tree/master
