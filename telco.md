@@ -2,6 +2,7 @@
 ## sim
 - https://www.youtube.com/watch?v=MYfeNyZIzBE [Using SIM Tunneling to Travel at Light Speed]
 - https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping
+- https://www.youtube.com/watch?v=nvI1i9njjt0 [ThinSIM based Attacks on Mobile Money Systems 2018]
 ## 4g/5g
 - https://www.youtube.com/watch?v=YpH3Zx-X5bM [New Vulnerabilities in 5G Networks]
 - https://www.youtube.com/watch?v=ASS4GlpwuGA [Bypassing in Mobile Network from Red Team POV]
@@ -46,7 +47,7 @@
 - https://www.youtube.com/watch?v=AySWvrpj9s8&t=471s [Attacking NextGen Roaming Networks]
 - https://www.youtube.com/watch?v=OORUkEsannA&t=5s [https://www.youtube.com/watch?v=2JztRvdIY1w]
 - https://www.youtube.com/watch?v=iA16H6ntfYU [Attacks You Can't Combat Vulnerabilities of Mobile Operators - Sergey Puzankov - DEF CON China 1]
-- https://www.youtube.com/watch?v=nvI1i9njjt0 [ThinSIM based Attacks on Mobile Money Systems 2018]
+
  
 - https://ieeexplore.ieee.org/document/8835335 [aLTEr vulnerability]
 - https://radix-security.com/research/revolte-attack/ [reVOLTE]
