@@ -75,6 +75,8 @@
 - https://www.p1sec.com/trainings
 - https://penthertz.com/trainings/5g_devices_and_networks_hacking/
 - https://hardwear.io/netherlands-2024/training/telco-networks-for-pentesters.php
+- https://advancedsecurity.training/training/live-mobile-hacking/?event=live-mobile-device-hacking-winter-2024
+- https://www.blackhat.com/us-24/training/schedule/#implementation-of-telco-networks-for-pentesters-g-g-and-g-36828
 
 ## curated lists
 - https://github.com/W00t3k/Awesome-Cellular-Hacking
