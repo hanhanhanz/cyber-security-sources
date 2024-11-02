@@ -52,7 +52,8 @@
 - https://radix-security.com/research/revolte-attack/ [reVOLTE]
 - https://adam-toscher.medium.com/how-to-create-an-evil-lte-twin-34b0a9ce193b [create eviltwin lte]
 - https://github.com/vaggelis-sudo/5G-UE-SecurityTesting [5g UE security testing]
-- https://syed-rafiul-hussain.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf [paging protocol attack on 4g/5g (ToRPEDO)] 
+- https://syed-rafiul-hussain.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf [paging protocol attack on 4g/5g (ToRPEDO)]
+- https://www.youtube.com/@RifkyTheCyber/videos [goldmine]
 ## basic
 - https://www.youtube.com/watch?v=w4nME5Q3zQ4&t=30s [LTE Call Flow - Wireshark (Pcap) analysis of LTE UE Attach]
 - https://www.youtube.com/watch?v=4JXhKhxY3Oo&list=PLgQvzsPaZX_ZAaohgRhpb_dv7RL1fNZB5 [LTE Security multipart]
