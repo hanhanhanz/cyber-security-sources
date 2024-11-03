@@ -65,6 +65,7 @@
 - https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf [security architecture]
 - https://www.gsma.com/solutions-and-impact/technologies/security/wp-content/uploads/2024/07/FS.40-v3.0-002-19-July.pdf [security architecture]
 - https://www.cisa.gov/sites/default/files/publications/5G_Security_Evaluation_Process_Investigation_508c.pdf [security architecture]
+- https://www.enisa.europa.eu/publications/signalling-security-in-telecom-ss7-diameter-5g/@@download/fullReport
 ## all gen
 - https://www.youtube.com/watch?v=t4SHqKyDmH8 [War Stories - Nuthin But A G Thang Evolution of Cellular Networks]
 
