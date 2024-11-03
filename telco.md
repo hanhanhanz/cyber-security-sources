@@ -52,7 +52,7 @@
 - https://ieeexplore.ieee.org/document/8835335 [aLTEr vulnerability]
 - https://radix-security.com/research/revolte-attack/ [reVOLTE]
 - https://adam-toscher.medium.com/how-to-create-an-evil-lte-twin-34b0a9ce193b [create eviltwin lte]
-- https://github.com/vaggelis-sudo/5G-UE-SecurityTesting [5g UE security testing]
+- https://github.com/vaggelis-sudo/5G-UE-SecurityTesting / https://aanjhan.com/assets/bitsikas23wisec5g.pdf [5g UE security testing]
 - https://syed-rafiul-hussain.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf [paging protocol attack on 4g/5g (ToRPEDO)]
 - https://www.youtube.com/@RifkyTheCyber/videos [goldmine]
 ## basic
