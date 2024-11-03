@@ -60,6 +60,9 @@
 - https://www.youtube.com/watch?v=4JXhKhxY3Oo&list=PLgQvzsPaZX_ZAaohgRhpb_dv7RL1fNZB5 [LTE Security multipart]
 - https://github.com/cn0xroot/RFSec-ToolKit
 - https://x.com/3g4gUK/status/1057929137501995008?t=pqXCRc1a2WJiB6QBasdX7Q&s=19 [5g threatmodeling]
+- https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf [security architecture]
+- https://www.gsma.com/solutions-and-impact/technologies/security/wp-content/uploads/2024/07/FS.40-v3.0-002-19-July.pdf [security architecture]
+- https://www.cisa.gov/sites/default/files/publications/5G_Security_Evaluation_Process_Investigation_508c.pdf [security architecture]
 ## all gen
 - https://www.youtube.com/watch?v=t4SHqKyDmH8 [War Stories - Nuthin But A G Thang Evolution of Cellular Networks]
 
@@ -77,6 +80,10 @@
 - https://hardwear.io/netherlands-2024/training/telco-networks-for-pentesters.php
 - https://advancedsecurity.training/training/live-mobile-hacking/?event=live-mobile-device-hacking-winter-2024
 - https://www.blackhat.com/us-24/training/schedule/#implementation-of-telco-networks-for-pentesters-g-g-and-g-36828
+
+## testing framework
+- https://5gsecuritytestbed.com/reports/ [full technical report]
+
 
 ## curated lists
 - https://github.com/W00t3k/Awesome-Cellular-Hacking
