@@ -47,7 +47,9 @@
 - https://www.youtube.com/watch?v=AySWvrpj9s8&t=471s [Attacking NextGen Roaming Networks]
 - https://www.youtube.com/watch?v=OORUkEsannA&t=5s [https://www.youtube.com/watch?v=2JztRvdIY1w]
 - https://www.youtube.com/watch?v=iA16H6ntfYU [Attacks You Can't Combat Vulnerabilities of Mobile Operators - Sergey Puzankov - DEF CON China 1]
-
+- https://www.youtube.com/watch?v=BFkrK5kaH4o [New Adventures in Spying 3G and 4G Users: Locate Track & Monitor]
+- https://www.youtube.com/watch?v=eXvYieX1Wu0 [Back to the Future. Cross-Protocol Attacks in the Era of 5G]
+- https://www.youtube.com/watch?v=rI9hvDDbdlE [Attacks Against GSMA's M2M Remote Provisioning]
  
 - https://ieeexplore.ieee.org/document/8835335 [aLTEr vulnerability]
 - https://radix-security.com/research/revolte-attack/ [reVOLTE]
