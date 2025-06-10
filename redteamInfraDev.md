@@ -12,3 +12,4 @@ how to build infrastructure for redteaming
 - https://github.com/mantvydasb/Red-Team-Infrastructure-Automation
 - https://www.youtube.com/watch?v=Pk9o7FtUXeM
 - https://www.youtube.com/watch?v=aEIUqrfiBb8
+- https://github.com/RedTeamOperations/Red-Infra-Craft
