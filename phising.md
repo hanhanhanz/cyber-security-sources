@@ -2,6 +2,9 @@
 
 All about phishing
 
+## godtier
+- https://medium.com/@fakasler
+
 ## Templates
 - https://github.com/sophoslabs/covid-iocs
 - https://github.com/UNGlobalPlatform/okta-templates
@@ -40,6 +43,7 @@ All about phishing
 - https://github.com/bhdresh/SocialEngineeringPayloads
 - https://doubleoctopus.com/blog/threats-and-attacks/bypassing-2fa/
 - https://awesomeopensource.com/projects/phishing/two-factor-authentication
+- https://leosmith.wtf/blog/pwa-phishing.html
 
 ## curatedLists
 - https://github.com/PhishyAlice/awesome-phishing/blob/master/README.md
