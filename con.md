@@ -24,3 +24,4 @@ cyber security conferences
 - [crest](https://www.youtube.com/@CREST-International/videos) 
 - [sans offensive ops](https://www.youtube.com/@SANSOffensiveOperations/videos) 
 - [mcttp](https://www.youtube.com/@MCTTP/videos) 
+- [so-con](https://www.youtube.com/@specterops/videos)
