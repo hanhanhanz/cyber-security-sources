@@ -1,5 +1,5 @@
 # con
-cyber security conferences 
+cyber security conferences, redops specific 
 
 - [blackhat](https://www.youtube.com/@BlackHatOfficialYT/videos) 
 - [defcon](https://www.youtube.com/@DEFCONConference/videos) 
