@@ -13,3 +13,4 @@ how to build infrastructure for redteaming
 - https://www.youtube.com/watch?v=Pk9o7FtUXeM
 - https://www.youtube.com/watch?v=aEIUqrfiBb8
 - https://github.com/RedTeamOperations/Red-Infra-Craft
+- https://medium.com/@frsfaisall/mastering-modern-red-teaming-infrastructure-leveraging-old-domains-for-reputation-based-bypasses-1fd8cc1768f7
