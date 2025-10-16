@@ -12,3 +12,5 @@ courses/learning material for RE
 - ctf
 - compile compare debugon debugoff compile compare debugon debugoff
 - https://invokere.com/
+- PE & ELF arch
+- decompiler/diassembler/debugger
