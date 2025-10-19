@@ -14,3 +14,9 @@ courses/learning material for RE
 - https://invokere.com/
 - PE & ELF arch
 - decompiler/diassembler/debugger
+- [guidedHacking](https://www.youtube.com/watch?v=lwUve1VdFYs&list=PLt9cUwGw6CYEpBwasTz7WWgphfRWof0_O&index=1)
+- [cyberYeti](https://www.youtube.com/watch?v=fv9ii3W5htQ&list=PLHJns8WZXCdvaD7-xR7e5FJNW_6H9w-wC)
+- [IDA tutorial](https://www.youtube.com/watch?v=N_3AGB9Vf9E&list=PLKwUZp9HwWoDDBPvoapdbJ1rdofowT67z)
+- [guidedHacking](https://www.youtube.com/watch?v=lwUve1VdFYs&list=PLt9cUwGw6CYEpBwasTz7WWgphfRWof0_O&index=1)
+- [PatchgaurdVsBootkit](https://www.youtube.com/watch?v=AbNEUkQ__3E&list=PLHimULZIr-kusM38ElmsP_z4jUcwSKDcP)
+- [OALabs](https://www.patreon.com/collection/1259251?view=expanded)
