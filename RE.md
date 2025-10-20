@@ -2,6 +2,7 @@
 courses/learning material for RE
 
 - https://beginners.re/
+- https://pwn.college/reversing-hell/
 - practical malware analysis book
 - Practical Reverse Engineering book
 - https://malwareunicorn.org/workshops/re101.html#0
