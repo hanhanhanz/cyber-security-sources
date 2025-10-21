@@ -23,3 +23,4 @@ courses/learning material for RE
 - [PatchgaurdVsBootkit](https://www.youtube.com/watch?v=AbNEUkQ__3E&list=PLHimULZIr-kusM38ElmsP_z4jUcwSKDcP)
 - [OALabs](https://www.patreon.com/collection/1259251?view=expanded)
 - [PE arc](https://www.youtube.com/playlist?list=PLHJns8WZXCdstHnLaxcz-CO74fO4Q88_8)
+- [malware analysis series](https://exploitreversing.com/wp-content/uploads/2025/01/mas_10.pdf)
