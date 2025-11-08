@@ -65,6 +65,7 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 ## c2 interaction with tools
 tools used commonly and interaction to c2
 - https://github.com/wsummerhill/C2_RedTeam_CheatSheets/tree/main/CobaltStrike
+- https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/AllTools.csv
 
 ## Toolkit
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
