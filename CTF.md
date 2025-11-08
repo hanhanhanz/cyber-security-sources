@@ -43,6 +43,7 @@ containing multiple types of CTF
 - https://github.com/RPISEC/MBE
 - https://ropemporium.com/
 - https://crackmes.one/
+- https://malops.io/
 
 ### Web 
 - https://portswigger.net/web-security/all-labs
