@@ -62,6 +62,10 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 - https://theevilbit.github.io/posts/divide_and_conquer/
 
 ## Toolkit
+tools used commonly and interaction to c2
+- https://github.com/wsummerhill/C2_RedTeam_CheatSheets/tree/main/CobaltStrike
+
+## Toolkit
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
 ## Paid Training 
