@@ -60,6 +60,7 @@ list containing basics, checklist, cheatsheets, and  TTP about Active Deirectory
 
 ## Specific Intresting TTP
 - https://theevilbit.github.io/posts/divide_and_conquer/
+- https://github.com/CICADA8-Research/Penetration/tree/main/RogueVPN
 
 ## c2 interaction with tools
 tools used commonly and interaction to c2
