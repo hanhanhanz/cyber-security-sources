@@ -24,3 +24,5 @@ https://www.cobalt.io/blog/pentester-guide-to-exploiting-buffer-overflow-vulnera
 ## format string attack
 https://vickieli.dev/binary%20exploitation/format-string-vulnerabilities/
 
+## off by one
+https://devel0pment.de/?p=688
