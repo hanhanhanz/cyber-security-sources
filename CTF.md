@@ -29,21 +29,22 @@ containing multiple types of CTF
 - https://hack.me/s/
 - https://deusx64.ai/
 
-### PWN/RE
-- https://pwnable.xyz/ 
+### RE
 - https://challenges.re/ 
-- https://pwnable.tw/challenge/ 
 - http://reversing.kr/challenge.php 
+- https://w3challs.com/challenges/list/reversing
+- https://crackmes.one/
+- https://malops.io/
+### PWN
+- https://pwnable.xyz/ 
+- https://pwnable.tw/challenge/ 
 - https://pwnable.kr/play.php 
-- https://w3challs.com/challenges/list/reversing 
-- https://microcorruption.com/login 
 - https://pwn.college/
 - http://www.fuzzysecurity.com/tutorials.html
 - https://github.com/shellphish/how2heap
 - https://github.com/RPISEC/MBE
 - https://ropemporium.com/
-- https://crackmes.one/
-- https://malops.io/
+
 
 ### Web 
 - https://portswigger.net/web-security/all-labs
