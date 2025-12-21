@@ -9,6 +9,7 @@ https://ocw.cs.pub.ro/courses/cns/labs/lab-10
 
 ## rop
 https://connormcgarr.github.io/ROP/
+https://www.nccgroup.com/research-blog/defeating-windows-dep-with-a-custom-rop-chain/
 ### more rop
 [rpisec](https://www.youtube.com/watch?v=b5Ax_fLtYYw)  
 [pwncollege](https://www.youtube.com/watch?v=OVkObKS0gOo&t=24s)  
