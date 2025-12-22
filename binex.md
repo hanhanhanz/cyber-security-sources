@@ -8,7 +8,7 @@
 https://ocw.cs.pub.ro/courses/cns/labs/lab-10
 
 ## rop
-https://connormcgarr.github.io/ROP/
+https://connormcgarr.github.io/ROP/  
 https://www.nccgroup.com/research-blog/defeating-windows-dep-with-a-custom-rop-chain/
 ### more rop
 [rpisec](https://www.youtube.com/watch?v=b5Ax_fLtYYw)  
@@ -31,3 +31,10 @@ https://devel0pment.de/?p=688
 
 ## integer overflow/underflow
 https://book.hacktricks.wiki/en/binary-exploitation/integer-overflow-and-underflow.html
+
+## protection
+seh  
+safeseh  
+stack cookie/canary  
+dep+aslr  
+sehop  
