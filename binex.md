@@ -38,3 +38,23 @@ safeseh
 stack cookie/canary  
 dep+aslr  
 sehop  
+
+## heap
+https://github.com/shellphish/how2heap
+
+## exploitDev
+https://github.com/PwnAwan/EXP-401-OSEE  
+https://infosec.jaelkoh.com/2025/my-second-year-in-infosec-osee-the-odyssey  
+https://github.com/RPISEC/MBE  
+https://opensecuritytraining.info/Exploits1.html  
+https://opensecuritytraining.info/Exploits2.html  
+https://github.com/rosehgal/BinExp  
+https://github.com/xchg2pwn/ExploitDevelopment  
+https://github.com/w4fz5uck5/3XPL01t5/tree/master/OSEE_Training  
+https://github.com/PwnAwan/EXP-401-OSEE  
+https://github.com/wetw0rk/AWE-PREP  
+https://github.com/0x1BE/OSEE-Prep  
+
+## linux specific exploitDev
+https://github.com/akazemi67/Linux-Exploit-Development-Course  
+https://www.udemy.com/topic/exploit-development/?srsltid=AfmBOoqL9nTE5CBSJgse_587P0ImW8qnE4h9uPkitPwbHaAJGw4uWxA4
