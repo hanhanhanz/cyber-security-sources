@@ -22,8 +22,6 @@ https://tc.gts3.org/cs6265/2021/tut/tut06-01-rop.html
 ## working framework
 https://tc.gts3.org/cs6265/2021/tut/tut06-01-rop.html  
 https://wiki.studsec.nl/books/ctf-guides/page/pwn  
-
-## tips
 https://github.com/Naetw/CTF-pwn-tips  
 
 ## curated writeup
@@ -34,10 +32,6 @@ https://blog.csdn.net/qq_73089613/article/details/147312102
 https://blog.csdn.net/qq_73089613/article/details/147339652  
 
 
-## kernel 
-https://github.com/paulveillard/cybersecurity-exploit-development?tab=readme-ov-file#use-after-free
-https://github.com/FULLSHADE/WindowsExploitationResources?tab=readme-ov-file
-https://github.com/xairy/linux-kernel-exploitation
 
 ## few bug classes
 ### uaf
@@ -68,14 +62,14 @@ https://devel0pment.de/?p=688
 ### integer overflow/underflow
 https://book.hacktricks.wiki/en/binary-exploitation/integer-overflow-and-underflow.html
 
-## protection
+### protection
 seh  
 safeseh  
 stack cookie/canary  
 dep+aslr  
 sehop  
 
-## heap
+### heap
 https://github.com/shellphish/how2heap  
 https://heap-exploitation.dhavalkapil.com/attacks
 
@@ -95,3 +89,8 @@ https://github.com/0x1BE/OSEE-Prep
 ## linux specific exploitDev
 https://github.com/akazemi67/Linux-Exploit-Development-Course  
 https://www.udemy.com/topic/exploit-development/?srsltid=AfmBOoqL9nTE5CBSJgse_587P0ImW8qnE4h9uPkitPwbHaAJGw4uWxA4
+
+## kernel 
+https://github.com/paulveillard/cybersecurity-exploit-development?tab=readme-ov-file#use-after-free
+https://github.com/FULLSHADE/WindowsExploitationResources?tab=readme-ov-file
+https://github.com/xairy/linux-kernel-exploitation
