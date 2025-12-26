@@ -52,7 +52,24 @@ https://vx-underground.org/Papers/Windows/
 https://connormcgarr.github.io/  
 https://secret.club/  
 https://h0mbre.github.io/  
-https://blog.quarkslab.com/category/exploitation.html  
+https://labs.watchtowr.com/disclosed-vulnerabilities/  
+https://www.synacktiv.com/en/publications%253Ffield_tags_target_id%253D3  
+https://starlabs.sg/  
+https://blog.ret2.io/  
+https://blog.quarkslab.com/category/vulnerability.html  
+https://theori.io/blog/category/vulnerability-research  
+https://zeropath.com/blog/  
+https://blog.doyensec.com/  
+https://blog.talosintelligence.com/category/vulnerability-spotlight/  
+https://blogs.cisco.com/tag/vulnerability-research  
+https://www.crowdfense.com/blog/  
+https://pwno.io/blog	
+https://a13xp0p0v.github.io/articles/  
+https://syst3mfailure.io/tags/research/  
+https://swarm.ptsecurity.com/  
+https://devco.re/en/blog/  
+https://faith2dxy.xyz/  
+https://bushido-sec.com/index.php/research-2/  
 
 ## few bug classes
 ### uaf
