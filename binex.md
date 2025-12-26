@@ -73,7 +73,7 @@ https://www.nccgroup.com/research-blog/defeating-windows-dep-with-a-custom-rop-c
 
 ### bof
 https://www.cobalt.io/blog/pentester-guide-to-exploiting-buffer-overflow-vulnerabilities  
-https://www.removepaywall.com/search?url=https://www.scribd.com/document/923412964/Binary-Exploitation-V3 (multiple bof wit vary protection)  
+https://www.scribd.com/document/923412964/Binary-Exploitation-V3 (multiple bof wit vary protection)  
 
 ### format string attack
 https://vickieli.dev/binary%20exploitation/format-string-vulnerabilities/
