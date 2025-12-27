@@ -12,6 +12,7 @@ courses/learning material for RE
 - https://www.youtube.com/watch?v=d4Pgi5XML8E&list=PLIfB3Ur76mFghKTtY5v7y94Fn8m1qoNV-
 - https://godbolt.org/ + https://dogbolt.org/ (vary architecture + vary decompiler) and feed multiple binary
 - ctf
+- https://users.umiacs.umd.edu/~tudor/courses/ENEE757/Fall15/misc/gdb_tutorial.html
 - compile compare debugon debugoff compile compare debugon debugoff
 - https://invokere.com/
 - ELF arch
