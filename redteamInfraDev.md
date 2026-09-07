@@ -16,3 +16,4 @@ how to build infrastructure for redteaming
 - https://medium.com/@frsfaisall/mastering-modern-red-teaming-infrastructure-leveraging-old-domains-for-reputation-based-bypasses-1fd8cc1768f7
 - https://github.com/attacksurge/ax
 - https://hunt.io/glossary/c2-channels
+- https://github.com/dn9uy3n/Modern-Red-Team-Infrastructure
