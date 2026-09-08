@@ -5,7 +5,6 @@ attacking ai system
 - [atlas](https://atlas.mitre.org/)
 - [arcanum](https://arcanum-sec.github.io/arc_pi_taxonomy/)
 - [jailbreackbench](https://jailbreakbench.github.io/)
-- [The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course)
 - [attack vector](https://github.com/RiccardoBiosas/awesome-MLSecOps#attack-vectors)
 - [threat model](https://github.com/RiccardoBiosas/awesome-MLSecOps#threat-modeling)
 
